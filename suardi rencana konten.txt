@@ -3,4 +3,5 @@ Rencana konten suardi
 - menambahkan javascrip
   * menambahkan framework javascrip
   * Menambahkan laravel
+- struktur data dasar
 - menambahkan konten video orang sukses
