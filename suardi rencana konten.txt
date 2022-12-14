@@ -2,6 +2,11 @@ Rencana konten suardi
 - menambahkan PhP
 - menambahkan javascrip
   * menambahkan framework javascrip
-  * Menambahkan laravel
+  * Menambahkan bola
+     vue
+     react
 - struktur data dasar
 - menambahkan konten video orang sukses
+  laravel
+- phyton
+
