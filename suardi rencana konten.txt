@@ -1,0 +1,6 @@
+Rencana konten suardi
+- menambahkan PhP
+- menambahkan javascrip
+  * menambahkan framework javascrip
+  * Menambahkan laravel
+- menambahkan konten video orang sukses
