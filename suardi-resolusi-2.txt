@@ -1,0 +1,4 @@
+Suardi resolusi 2
+- Membuat web html
+- membuat web dengan css
+-membuat forum diskusi
