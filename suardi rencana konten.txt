@@ -1,0 +1,4 @@
+Rencana konten suardi
+- menambahkan PhP
+- menambahkan javascrip
+- menambahkan konten video orang sukses
